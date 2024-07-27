@@ -43,7 +43,7 @@
     "@sentry-internal/global-search": "^0.5.10",
     "@sentry/nextjs": "^7.89.0",
     "@types/mdx": "^2.0.9",
-    "bootstrap": "4.6.1",
+    "bootstrap": "5.0.0",
     "esbuild": "^0.19.8",
     "framer-motion": "^10.12.16",
     "gray-matter": "^4.0.3",
