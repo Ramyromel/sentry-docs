@@ -116,7 +116,7 @@
     "@types/ws": "^8.5.10",
     "autoprefixer": "^10.4.17",
     "concurrently": "^8.2.2",
-    "dotenv-cli": "^7.4.1",
+    "dotenv-cli": "^7.4.4",
     "eslint": "^8",
     "eslint-config-next": "14.0.1",
     "eslint-config-sentry-docs": "^1.118.0",
