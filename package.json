@@ -59,7 +59,7 @@
     "@radix-ui/react-toolbar": "^1.1.0",
     "@radix-ui/themes": "^3.1.0",
     "@sentry-internal/global-search": "^1.1.0",
-    "@sentry/nextjs": "8.29.0",
+    "@sentry/nextjs": "8.39.0",
     "@types/mdx": "^2.0.9",
     "algoliasearch": "^4.23.3",
     "esbuild": "^0.19.8",
